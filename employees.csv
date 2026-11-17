@@ -1,0 +1,101 @@
+EmployeeID,Name,Department,Salary,HireDate,Region
+E001,Amit Reddy,Operations,821079.0,2024-08-02,South
+E002,Diya Nair,Sales,826729.0,2022-10-25,West
+E003,Kiran Sharma,Customer Support,462971.0,2017-12-22,North
+E004,Sneha Pillai,Customer Support,662944.0,2021-05-05,West
+E005,Rohan Singh,Operations,467390.0,2023-03-11,West
+E006,Pooja Gupta,IT,,2023-02-23,West
+E007,Rahul Verma,Customer Support,,2025-09-02,West
+E008,Aditya Sharma,Marketing,240000.0,2021-03-13,West
+E009,Reyansh Khan,Customer Support,1054024.0,2025-03-04,East
+E010,Kavya Rao,Marketing,721954.0,2025-10-23,South
+E011,Nikhil Sharma,Marketing,512773.0,2022-02-24,South
+E012,Nikhil Nair,Sales,,2017-10-28,West
+E013,Vivaan Menon,Operations,557462.0,2020-05-21,South
+E014,Diya Das,Sales,643853.0,2023-11-19,East
+E015,Neha Singh,IT,532319.0,2022-03-24,North
+E016,Neha Reddy,Finance,917359.0,2025-06-05,South
+E017,Aditya Singh,IT,601103.0,2024-05-05,South
+E018,Priya Nair,it,646907.0,2017-07-27,South
+E019,Arjun Kulkarni,Customer Support,836681.0,2024-10-01,East
+E020,Pari Rao,Finance,725325.0,2020-03-20,East
+E021,Krishna Sharma,Sales,610217.0,2024-05-15,South
+E022,Vivaan Mishra,IT,819870.0,2021-07-28,North
+E023,Aditya Nair,Finance,1076927.0,2021-02-06,East
+E024,Amit Singh,Finance,677134.0,2017-08-27,North
+E025,Neha Singh,IT,641017.0,2018-01-26,West
+E026,Amit Jain,IT,650713.0,2022-05-11,West
+E027,Pari Mishra,IT,855877.0,2022-02-14,North
+E028,Aadhya Khan,Sales,512144.0,2021-12-29,South
+E029,Ananya Jain,Sales,569903.0,2018-05-30,North
+E030,Priya Iyer,IT,343260.0,2021-08-04,South
+E031,Ananya Jain,Customer Support,406904.0,2017-07-20,North
+E032,Neha Jain,Operations,526796.0,2018-04-19,West
+E033,Meera Reddy,Sales,609931.0,2021-06-28,North
+E034,Pooja Jain,Marketing,938435.0,2022-07-21,East
+E035,Krishna Bose,Finance,716479.0,2022-11-25,East
+E036,Myra Singh,IT,455826.0,2024-09-08,North
+E037,Ayaan Gupta,Marketing,488964.0,2020-06-02,West
+E038,Vivaan Mishra,Marketing,867455.0,2024-01-18,North
+E039,Kiran Mishra,Marketing,822790.0,2017-11-11,West
+E040,Ira Gupta,Operations,625067.0,2024-09-18,East
+E041,Kiran Pillai,Marketing,540345.0,2020-06-24,East
+E042,Aditya Gupta,IT,822488.0,2023-11-04,West
+E043,Nikhil Pillai,Customer Support,441201.0,2025-09-26,South
+E044,Nikhil Reddy,Operations,690565.0,2023-05-01,South
+E045,Saanvi Kumar,Marketing,1029079.0,2025-04-13,North
+E046,Akash Verma,Marketing,656964.0,2017-02-03,West
+E047,Krishna Patel,Sales,480390.0,2018-07-15,South
+E048,Neha Jain,Customer Support,693866.0,2022-08-20,West
+E049,Pooja Bose,Marketing,535398.0,2021-11-12,South
+E050,Meera Menon,Finance,369059.0,2018-02-01,West
+E051,Meera Bose,Finance,746186.0,2023-06-20,West
+E052,Saanvi Menon,IT,821210.0,2017-07-12,South
+E053,Meera Kumar,Finance,564037.0,2025-12-01,South
+E054,Rahul Singh,Marketing,552098.0,2018-05-30,West
+E055,Vihaan Reddy,Customer Support,446918.0,2021-01-04,North
+E056,Vihaan Pillai,Operations,593012.0,2024-05-30,North
+E057,Rohan Kumar,Finance,518774.0,2021-08-17,South
+E058,Priya Mishra,Operations,438014.0,2023-09-12,East
+E059,Myra Iyer,Finance,960590.0,2023-05-02,North
+E060,Amit Verma,Sales,703969.0,2025-07-16,South
+E061,Sneha Joshi,Sales,723031.0,2021-03-06,West
+E062,Diya Pillai,Customer Support,779012.0,2025-10-23,North
+E063,Aadhya Menon,Customer Support,758787.0,2021-08-26,North
+E064,Priya Mishra,Marketing,545640.0,2025-01-15,South
+E065,Neha Kulkarni,Marketing,669059.0,2023-08-06,North
+E066,Ira Iyer,Marketing,571575.0,2018-03-13,North
+E067,Myra Singh,Customer Support,698923.0,2022-10-17,North
+E068,Kiran Pillai,Marketing,681504.0,2024-11-27,North
+E069,Kiran Menon,Sales,551121.0,2018-02-26,West
+E070,Meera Gupta,Operations,380726.0,2024-07-19,North
+E071,Vivaan Singh,Sales,646323.0,2017-12-13,East
+E072,Neha Jain,Sales,583231.0,2024-11-03,East
+E073,Myra Menon,sales,279733.0,2024-02-07,East
+E074,Aditya Iyer,Sales,711379.0,2018-05-14,East
+E075,Rahul Verma,Operations,793762.0,2023-07-16,South
+E076,Kiran Shetty,Marketing,1075104.0,2018-01-19,West
+E077,Myra Iyer,Marketing,549584.0,2022-02-11,North
+E078,Rohan Nair,Operations,523032.0,2025-04-25,North
+E079,Shaurya Rao,Customer Support,420304.0,2018-11-09,West
+E080,Ayaan Singh,Sales,657556.0,2018-07-26,North
+E081,Ananya Singh,Finance,656417.0,2020-10-22,North
+E082,Aadhya Verma,IT,473967.0,2020-04-26,North
+E083,Rahul Singh,Customer Support,588513.0,2017-06-09,North
+E084,Akash Shetty,Customer Support,263840.0,2021-02-07,North
+E085,Kiran Kumar,Customer Support,786748.0,2019-05-04,East
+E086,Reyansh Shetty,Customer Support,481278.0,2018-02-14,East
+E087,Ananya Shetty,Customer Support,613762.0,2019-06-27,North
+E088,Arjun Shetty,Operations,363195.0,2017-03-09,West
+E089,Rahul Kulkarni,Finance,515176.0,2025-03-27,North
+E090,Krishna Singh,Finance,569674.0,2025-12-12,East
+E091,Myra Verma,IT,617968.0,2020-04-23,West
+E092,Rohan Gupta,Operations,706352.0,2024-11-21,East
+E093,Rahul Pillai,Operations,879034.0,2021-02-25,South
+E094,Ishaan Jain,Operations,751888.0,2025-03-18,North
+E095,Shaurya Singh,Sales,793190.0,2018-07-24,North
+E096,Sneha Iyer,Operations,880299.0,2019-07-25,West
+E097,Ira Nair,customer support,722547.0,2018-12-25,South
+E098,Aditya Khan,Operations,613393.0,2024-05-30,North
+E099,Pooja Pillai,Sales,801640.0,2020-10-31,East
+E100,Myra Pillai,Finance,,2020-08-20,East

@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Price,Cost,Supplier,LaunchDate
+P001,Pro Notebook 001,Books,23017.89,1015.26,Supplier D,2025-09-20
+P002,Eco Shoes 002,Grocery,10256.73,8069.59,Supplier A,2022-03-12
+P003,Pro Lamp 003,Books,9802.2,5791.63,Supplier C,2020-01-13
+P004,Classic Shoes 004,Grocery,4106.75,3727.38,Supplier D,2019-04-24
+P005,Compact Chair 005,Books,6965.75,4201.55,Supplier B,2021-06-22
+P006,Everyday Cookware 006,Clothing,22006.31,9999.65,Supplier C,2025-11-18
+P007,Compact Notebook 007,Beauty,11911.59,9968.24,Supplier A,2021-09-10
+P008,Premium Shoes 008,Sports,8599.04,801.41,Supplier D,2025-12-30
+P009,Pro Lamp 009,Clothing,5480.41,3406.45,Supplier D,2022-06-05
+P010,Ultra Camera 010,Sports,12175.0,3888.04,Supplier E,2024-05-07
+P011,Smart Mixer 011,Beauty,17944.68,12730.08,Supplier E,2024-07-01
+P012,Classic Backpack 012,Sports,7237.92,4511.95,Supplier B,2019-03-14
+P013,Smart T-Shirt 013,Beauty,18966.9,5428.66,Supplier A,2019-01-16
+P014,Smart Headphones 014,Grocery,,3194.58,Supplier B,2025-06-16
+P015,Eco Shoes 015,Sports,19710.1,3990.1,Supplier A,2025-07-12
+P016,Smart Notebook 016,Clothing,6346.9,4781.37,Supplier C,2019-12-06
+P017,Smart Watch 017,Sports,15812.23,10035.95,Supplier A,2023-07-10
+P018,Everyday Cookware 018,Toys,3927.16,1769.29,Supplier E,2025-06-19
+P019,Premium Camera 019,Home & Kitchen,9157.91,1044.29,Supplier D,2025-08-27
+P020,Smart Bottle 020,Grocery,18136.29,765.95,Supplier B,2021-01-27
+P021,Everyday Backpack 021,Sports,15828.17,4131.67,Supplier E,2024-09-21
+P022,Classic Cookware 022,Toys,4776.92,3582.43,Supplier D,2023-07-11
+P023,Classic Notebook 023,Toys,21472.59,11205.58,Supplier C,2025-06-30
+P024,Classic Headphones 024,Toys,1427.49,849.39,Supplier A,2020-01-11
+P025,Premium Bottle 025,Grocery,14920.47,5775.5,Supplier B,2023-03-17
+P026,Eco Mixer 026,Home & Kitchen,24597.11,16733.19,Supplier C,2019-03-04
+P027,Premium T-Shirt 027,Books,-13334.0,5994.65,Supplier D,2021-07-02
+P028,Smart Notebook 028,Electronics,20036.53,13572.67,Supplier B,2019-01-30
+P029,Compact Watch 029,Clothing,14919.6,8861.21,Supplier D,2022-02-06
+P030,Compact Backpack 030,Electronics,19598.68,8725.86,Supplier B,2024-09-04
+P031,Classic Chair 031,Beauty,16423.95,10266.86,Supplier B,2023-08-10
+P032,Smart Camera 032,Books,17308.88,5018.62,Supplier C,2021-03-21
+P033,Eco Backpack 033,Beauty,5771.73,4507.98,Supplier A,2021-12-27
+P034,Ultra Notebook 034,Home & Kitchen,18571.08,1628.95,Supplier C,2021-07-28
+P035,Ultra Mixer 035,Clothing,6023.19,3622.21,Supplier B,2024-02-14
+P036,Classic Watch 036,Beauty,24517.92,3951.11,Supplier B,2020-11-11
+P037,Premium Shoes 037,Toys,5771.13,1176.6,Supplier D,2019-08-23
+P038,Eco Chair 038,Grocery,5992.67,116.87,Supplier B,2022-07-19
+P039,Ultra T-Shirt 039,Electronics,21480.82,5879.3,Supplier D,2024-10-23
+P040,Compact Headphones 040,Sports,6149.59,3886.07,Supplier D,2022-05-05
+P041,Premium Cookware 041,Electronics,9085.84,4548.37,Supplier D,2020-06-06
+P042,Pro Mixer 042,Toys,17894.25,5466.76,Supplier B,2019-04-28
+P043,Classic Lamp 043,Electronics,4052.0,3713.14,Supplier E,2025-08-10
+P044,Everyday Chair 044,Toys,4060.05,2328.68,Supplier B,2024-04-29
+P045,Compact T-Shirt 045,Home & Kitchen,12209.81,2305.48,Supplier B,2020-02-02
+P046,Eco Headphones 046,Electronics,6167.29,3256.84,Supplier E,2019-07-09
+P047,Premium Mixer 047,Grocery,5967.12,3264.32,Supplier B,2019-11-27
+P048,Pro Headphones 048,Sports,329.06,292.74,Supplier D,2021-08-20
+P049,Eco Shoes 049,Sports,,4885.71,Supplier A,2024-09-06
+P050,Ultra Cookware 050,Beauty,8023.76,3685.92,Supplier D,2020-02-13
+P051,Smart T-Shirt 051,Clothing,874.81,612.91,Supplier E,2024-09-24
+P052,Ultra Watch 052,Beauty,15568.33,6006.04,Supplier D,2019-01-05
+P053,Smart Watch 053,Sports,15703.34,9626.08,Supplier C,2024-03-04
+P054,Classic Mixer 054,Clothing,1862.0,957.22,Supplier E,2020-12-23
+P055,Smart Cookware 055,Sports,7993.65,7522.95,Supplier B,2025-09-22
+P056,Premium Camera 056,Electronics,21832.73,891.08,Supplier B,2022-05-01
+P057,Smart Bottle 057,Clothing,14595.54,3180.33,Supplier A,2020-11-22
+P058,Everyday Watch 058,Books,10357.58,920.48,Supplier D,2020-09-13
+P059,Classic Bottle 059,Home & Kitchen,11680.5,3498.45,Supplier D,2024-10-14
+P060,Premium T-Shirt 060,Electronics,5285.38,126.88,Supplier D,2021-10-27
+P061,Classic Watch 061,Beauty,,9100.57,Supplier D,2021-06-19
+P062,Premium Chair 062,Sports,22858.63,9533.24,Supplier A,2024-02-25
+P063,Ultra Watch 063,HOME & KITCHEN,22775.45,11859.16,Supplier D,2022-10-06
+P064,Compact Cookware 064,BEAUTY,5675.19,5251.22,Supplier D,2023-08-25
+P065,Premium T-Shirt 065,Toys,7836.74,107.58,Supplier B,2022-02-13
+P066,Ultra T-Shirt 066,Electronics,4098.67,2448.18,Supplier C,2019-06-13
+P067,Everyday Chair 067,Home & Kitchen,7748.62,1024.53,Supplier E,2019-01-15
+P068,Compact Lamp 068,Clothing,8386.19,6347.15,Supplier C,2019-04-10
+P069,Smart Bottle 069,Beauty,15863.97,456.64,Supplier D,2023-01-08
+P070,Smart Lamp 070,Electronics,4821.38,4076.8,Supplier C,2022-08-06
+P071,Eco Mixer 071,Toys,22992.9,16113.78,Supplier D,2024-03-26
+P072,Ultra Chair 072,Clothing,2666.28,1212.41,Supplier D,2025-04-06
+P073,Everyday Bottle 073,Home & Kitchen,270.27,198.63,Supplier D,2020-03-22
+P074,Eco Watch 074,Toys,21387.99,12284.91,Supplier D,2025-09-13
+P075,Classic Mixer 075,Electronics,17623.57,2247.24,Supplier E,2025-07-10
+P076,Everyday Chair 076,Home & Kitchen,8947.82,5877.47,Supplier B,2023-04-24
+P077,Ultra Mixer 077,Grocery,14927.54,11005.09,Supplier E,2022-09-18
+P078,Eco T-Shirt 078,Books,5665.47,3895.0,Supplier D,2020-03-27
+P079,Everyday Mixer 079,Sports,4292.07,3072.38,Supplier C,2020-03-31
+P080,Eco Backpack 080,Beauty,11831.08,5722.13,Supplier B,2019-02-17
+P081,Eco Backpack 081,Beauty,8893.73,7992.28,Supplier C,2023-07-10
+P082,Pro Camera 082,BOOKS,15418.84,9794.59,Supplier D,2022-01-12
+P083,Ultra Mixer 083,Electronics,5531.13,4004.7,Supplier B,2020-05-05
+P084,Compact Cookware 084,Books,16606.56,3140.23,Supplier B,2019-06-12
+P085,Eco Chair 085,Clothing,19194.62,3105.63,Supplier E,2023-06-27
+P086,Smart Camera 086,Toys,4248.41,3181.95,Supplier C,2023-10-19
+P087,Smart Lamp 087,Books,1191.12,791.59,Supplier D,2019-10-11
+P088,Classic Camera 088,Electronics,11045.17,403.96,Supplier A,2019-04-16
+P089,Smart Chair 089,Grocery,19372.97,984.99,Supplier A,2019-09-29
+P090,Premium Notebook 090,Clothing,16304.07,13132.01,Supplier E,2024-04-05
+P091,Eco Mixer 091,Clothing,17576.56,1359.66,Supplier A,2024-03-07
+P092,Classic Bottle 092,Grocery,10130.1,1363.59,Supplier D,2021-01-23
+P093,Smart Mixer 093,Toys,5949.38,4542.73,Supplier E,2019-05-22
+P094,Ultra Mixer 094,Toys,13340.82,4449.55,Supplier C,2021-03-28
+P095,Classic Lamp 095,Beauty,5187.91,3477.07,Supplier E,2024-09-01
+P096,Pro Mixer 096,Grocery,18182.82,15779.35,Supplier C,2020-01-02
+P097, Compact Mixer 097 ,Electronics,5003.66,3766.73,Supplier E,2024-07-28
+P098,Pro Bottle 098,Books,7351.75,3560.96,Supplier B,2022-03-30
+P099,Classic Camera 099,Clothing,12712.47,6783.29,Supplier C,2019-12-28
+P100,Smart Mixer 100,Sports,12218.56,729.7,Supplier B,2025-07-15
+P101,Pro Bottle 101,Home & Kitchen,15060.75,5306.6,Supplier D,2022-08-18
+P102,Pro T-Shirt 102,Home & Kitchen,10991.81,2251.99,Supplier A,2023-09-14
+P103,Classic Mixer 103,Sports,22994.8,1887.55,Supplier E,2019-09-05
+P104,Eco Backpack 104,Grocery,21014.2,10117.47,Supplier A,2021-08-08
+P105,Pro Watch 105,Beauty,21989.8,1822.83,Supplier B,2023-06-06
+P106,Smart Cookware 106,Clothing,15774.59,1897.62,Supplier C,2023-07-09
+P107,Pro Chair 107,Sports,15911.33,7629.29,Supplier A,2019-06-10
+P108,Premium Chair 108,Books,15268.66,7988.97,Supplier C,2023-03-26
+P109,Smart Watch 109,Home & Kitchen,10928.05,2520.54,Supplier E,2025-08-12
+P110,Ultra Lamp 110,Books,8119.76,129.86,Supplier E,2024-07-03
+P111,Smart Bottle 111,Beauty,14840.46,3513.89,Supplier A,2020-06-15
+P112,Pro Chair 112,Home & Kitchen,734.77,356.78,Supplier C,2025-05-22
+P113,Eco Headphones 113,Books,284.67,144.22,Supplier C,2023-10-13
+P114,Smart T-Shirt 114,Beauty,21305.73,16482.12,Supplier A,2019-05-26
+P115,Compact Headphones 115,Books,1255.01,729.52,Supplier D,2019-11-25
+P116,Smart Shoes 116,Clothing,13166.92,7320.23,Supplier C,2025-06-13
+P117,Classic Camera 117,Books,15412.81,7306.51,Supplier D,2020-06-19
+P118,Compact T-Shirt 118,Toys,5033.66,3681.37,Supplier B,2022-02-27
+P119,Everyday Chair 119,Home & Kitchen,22403.59,3355.32,Supplier B,2022-09-05
+P120,Everyday Backpack 120,Books,4832.57,1983.02,Supplier D,2023-01-05
+P121,Premium T-Shirt 121,Beauty,22124.31,7905.13,Supplier D,2025-12-29
+P122,Classic Lamp 122,Clothing,19098.22,10188.67,Supplier A,2019-03-08
+P123, Everyday Shoes 123 ,Sports,6093.74,2539.8,Supplier B,2019-08-15
+P124,Classic Bottle 124,Grocery,3852.68,2172.04,Supplier C,2019-01-01
+P125,Classic Mixer 125,Clothing,7973.51,5541.68,Supplier E,2021-10-07
+P126,Ultra T-Shirt 126,Books,10008.37,4740.3,Supplier B,2021-06-14
+P127,Smart Notebook 127,Home & Kitchen,6219.28,4150.14,Supplier B,2025-07-15
+P128,Premium Backpack 128,Grocery,24972.4,11772.49,Supplier E,2021-07-25
+P129,Premium Notebook 129,Books,5817.57,5187.47,Supplier D,2019-03-20
+P130,Eco Notebook 130,Toys,20782.64,3666.15,Supplier E,2025-03-09
+P131,Pro T-Shirt 131,Books,4061.19,1897.76,Supplier D,2020-10-27
+P132,Ultra Cookware 132,Clothing,24508.07,14802.57,Supplier E,2025-05-22
+P133,Premium Cookware 133,Clothing,5714.76,3396.68,Supplier A,2024-06-03
+P134,Classic Backpack 134,Beauty,,1165.4,Supplier B,2025-03-01
+P135,Pro Bottle 135,Toys,14007.8,4683.28,Supplier B,2024-09-27
+P136,Smart Backpack 136,Home & Kitchen,-3094.23,2629.27,Supplier A,2020-01-02
+P137,Eco Chair 137,Toys,20438.64,10559.23,Supplier D,2023-05-21
+P138,Compact Backpack 138,Toys,6938.94,5713.26,Supplier D,2021-11-19
+P139,Pro Mixer 139,Electronics,13776.37,9082.28,Supplier A,2023-05-27
+P140,Eco Shoes 140,Electronics,13785.43,6309.57,Supplier A,2024-03-22
+P141,Compact T-Shirt 141,Beauty,15105.35,7708.1,Supplier A,2022-07-04
+P142,Premium Camera 142,Toys,1480.66,762.57,Supplier C,2021-03-10
+P143,Compact Lamp 143,Sports,4297.78,2385.13,Supplier C,2025-06-01
+P144,Pro Camera 144,Beauty,4112.85,3282.14,Supplier B,2023-08-23
+P145,Pro Mixer 145,Grocery,7620.38,2829.82,Supplier E,2025-03-14
+P146,Compact Chair 146,Clothing,3707.51,3321.72,Supplier B,2020-08-29
+P147,Pro Headphones 147,Home & Kitchen,23055.76,6664.0,Supplier C,2024-11-13
+P148,Eco Watch 148,Grocery,12872.08,942.81,Supplier C,2021-04-06
+P149,Smart Notebook 149,Clothing,15626.64,5935.46,Supplier B,2022-03-23
+P150,Everyday Headphones 150,Sports,9000.81,7960.54,Supplier E,2025-01-09
+P151,Pro Watch 151,Sports,6977.81,4401.9,Supplier E,2021-06-26
+P152,Classic Notebook 152,Books,12628.61,8852.65,Supplier A,2020-10-02
+P153,Everyday Bottle 153,Clothing,7427.94,5258.57,Supplier C,2025-10-01
+P154,Everyday Lamp 154,Beauty,-8656.13,7806.92,Supplier A,2021-03-06
+P155,Eco Shoes 155,Beauty,11372.95,6055.61,Supplier C,2021-02-22
+P156,Premium Bottle 156,Home & Kitchen,12692.27,9379.97,Supplier D,2020-08-05
+P157,Eco Cookware 157,Sports,24609.4,6904.66,Supplier C,2019-03-02
+P158,Premium Chair 158,Electronics,5659.96,3594.22,Supplier B,2022-11-14
+P159,Premium Mixer 159,Home & Kitchen,12250.09,10413.24,Supplier B,2020-10-13
+P160,Eco Mixer 160,Grocery,3821.99,2432.72,Supplier B,2024-12-11
+P161,Premium Chair 161,Books,8814.33,3241.26,Supplier B,2020-03-13
+P162,Smart Chair 162,Books,17960.75,13178.52,Supplier B,2023-06-13
+P163,Everyday Notebook 163,Grocery,4443.28,2933.83,Supplier D,2022-07-19
+P164,Smart Shoes 164,Beauty,14575.23,5482.81,Supplier A,2023-04-14
+P165,Compact Cookware 165,Toys,10475.27,5079.66,Supplier A,2019-10-16
+P166,Compact Backpack 166,Beauty,1383.38,757.59,Supplier C,2022-04-07
+P167,Pro T-Shirt 167,Sports,23333.51,3635.04,Supplier D,2023-05-20
+P168,Compact Cookware 168,Beauty,10398.13,2065.54,Supplier B,2021-05-21
+P169,Ultra Headphones 169,Clothing,19619.55,14140.07,Supplier B,2025-02-15
+P170,Smart Watch 170,Grocery,10465.62,5261.93,Supplier D,2022-09-16
+P171,Everyday T-Shirt 171,Home & Kitchen,23440.21,5563.01,Supplier B,2021-07-15
+P172,Classic Headphones 172,Grocery,7332.0,6436.05,Supplier D,2019-03-20
+P173,Everyday Mixer 173,Grocery,10363.96,6011.22,Supplier A,2020-03-06
+P174,Eco Chair 174,Home & Kitchen,18995.48,8098.02,Supplier A,2022-05-03
+P175,Premium Chair 175,Beauty,-8656.66,4431.74,Supplier C,2021-10-19
+P176,Smart Cookware 176,Grocery,9171.86,8257.8,Supplier B,2025-02-06
+P177,Compact Notebook 177,Books,,13735.11,Supplier D,2024-07-02
+P178,Smart Backpack 178,Clothing,13934.36,6644.71,Supplier C,2020-02-11
+P179,Classic Cookware 179,Grocery,17265.26,14879.84,Supplier B,2023-02-21
+P180,Classic Mixer 180,Books,16121.85,4383.31,Supplier A,2022-03-07
+P181, Eco Watch 181 ,ELECTRONICS,20715.14,4758.13,Supplier A,2019-09-16
+P182,Ultra Notebook 182,Home & Kitchen,21559.31,1711.43,Supplier D,2023-08-30
+P183,Ultra Notebook 183,Beauty,14124.64,9994.65,Supplier B,2022-10-05
+P184,Eco Headphones 184,Sports,7433.74,4886.0,Supplier C,2019-08-12
+P185,Classic Mixer 185,Home & Kitchen,666.75,601.36,Supplier E,2022-04-11
+P186,Premium Lamp 186,Toys,15398.26,6071.25,Supplier E,2024-02-14
+P187,Eco Mixer 187,Electronics,20654.0,270.01,Supplier B,2021-04-16
+P188,Ultra Cookware 188,Home & Kitchen,11317.89,8579.45,Supplier A,2021-07-01
+P189, Everyday Bottle 189 ,Sports,4200.35,3512.05,Supplier D,2019-10-09
+P190,Eco Watch 190,Electronics,7272.53,5274.37,Supplier D,2020-06-06
+P191,Pro Mixer 191,Sports,12798.23,3351.62,Supplier B,2025-11-13
+P192,Eco T-Shirt 192,Grocery,20933.2,5107.72,Supplier C,2023-05-07
+P193,Pro Backpack 193,Grocery,4375.83,2196.98,Supplier A,2020-03-26
+P194,Pro Backpack 194,Toys,15342.14,4553.89,Supplier D,2022-05-19
+P195,Everyday Camera 195,Clothing,18858.63,6277.93,Supplier D,2020-05-07
+P196,Pro T-Shirt 196,ELECTRONICS,23407.52,11505.81,Supplier B,2022-02-06
+P197,Compact Shoes 197,Toys,3005.04,1500.02,Supplier C,2020-01-08
+P198,Eco Bottle 198,Clothing,23167.08,7159.26,Supplier B,2023-05-02
+P199,Premium Backpack 199,Beauty,15076.14,768.56,Supplier A,2022-02-08
+P200,Classic Watch 200,Electronics,,9253.29,Supplier A,2021-01-01

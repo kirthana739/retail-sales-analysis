@@ -1,0 +1,21 @@
+StoreID,StoreName,City,Region,StoreType
+S001,Delhi Central,Delhi,North,Mall
+S002,Jaipur City,Jaipur,North,Mall
+S003, CHANDIGARH CITY ,Chandigarh,North,High Street
+S004,Lucknow Central,Lucknow,North,Shopping Complex
+S005,Gurugram City,Gurugram,North,Shopping Complex
+S006,Bengaluru Central,Bengaluru,South,Shopping Complex
+S007,Mangaluru Market,Mangaluru,South,High Street
+S008, CHENNAI MARKET ,Chennai,South,Shopping Complex
+S009,Hyderabad Mall,Hyderabad,South,Standalone
+S010,Kochi Market,Kochi,South,Mall
+S011,Kolkata Market,Kolkata,East,Mall
+S012,Bhubaneswar Central,Bhubaneswar,East,Mall
+S013,Patna Mall,Patna,East,Standalone
+S014,Ranchi City,Ranchi,East,Shopping Complex
+S015,Guwahati Central,Guwahati,East,Shopping Complex
+S016,Mumbai Mall,Mumbai,West,High Street
+S017,Pune Mall,Pune,West,Mall
+S018,Ahmedabad Market,Ahmedabad,West,Shopping Complex
+S019,Surat Mall,Surat,West,Mall
+S020,Indore Market,Indore,West,High Street
