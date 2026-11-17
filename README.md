@@ -28,11 +28,19 @@ The Pandas notebook generates the analysis graphs in Google Colab: monthly reven
 ### Power BI dashboard
 
 Created a four-page interactive dashboard:
+## Power BI Dashboard
 
-1. Executive Overview
-2. Products & Employees
-3. Customers & Stores
-4. Returns & Targets
+### Executive Overview
+![Executive Overview](<exact-filename>.png)
+
+### Products & Employees
+![Products & Employees](<exact-filename>.png)
+
+### Customers & Stores
+![Customers & Stores](<exact-filename>.png)
+
+### Returns & Targets
+![Returns & Targets](<exact-filename>.png)
 
 The report includes KPI cards, charts, tables, filters, data relationships, and DAX measures.
 
