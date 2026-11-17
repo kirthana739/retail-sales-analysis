@@ -32,19 +32,19 @@ Created a four-page interactive dashboard:
 
 ## Power BI Dashboard
 
+## Power BI Dashboard
+
 ### Executive Overview
-![Retail Sales Executive Overview](images/retail-sales-executive-overview.png)
+![Retail Sales Executive Overview](RETAIL%20SALES%20PERFORMANCE%20-%20Copy%20%282%29.png)
 
 ### Products & Employees
-![Products and Employee Performance](images/products-employee-performance.png)
+![Products and Employee Performance](PRODUCTS%20AND%20EMPLOYEE%20PERFORMANCE.png)
 
 ### Customers & Stores
-![Customer and Store Performance](images/customer-store-performance.png)
+![Customer and Store Performance](CUSTOMER%20AND%20STORE%20PERFORMANCE.png)
 
 ### Returns & Targets
-![Returns and Target Achievement](images/returns-target-achievement.png)
-The report includes KPI cards, charts, tables, filters, data relationships, and DAX measures.
-
+![Returns and Target Achievement](RETURNS%20AND%20TARGET%20ACHIEVEMENT.png)
 ## Repository structure
 
 ```text
