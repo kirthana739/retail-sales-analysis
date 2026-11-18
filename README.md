@@ -29,11 +29,6 @@ The Pandas notebook generates the analysis graphs in Google Colab: monthly reven
 
 Created a four-page interactive dashboard:
 ## Power BI Dashboard
-
-## Power BI Dashboard
-
-## Power BI Dashboard
-
 ### Executive Overview
 ![Retail Sales Executive Overview](RETAIL%20SALES%20PERFORMANCE%20-%20Copy%20%282%29.png)
 
