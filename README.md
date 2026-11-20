@@ -22,6 +22,62 @@ Used the same data in Google Colab to answer the 21 sales analysis questions and
 - String operations
 - Statistical analysis
 
+## Today's independent analysis task — 20 November 2026
+
+For today's task, I developed 10 original questions from the available dataset columns. I selected each question to explore a pattern that differs from the 21 assigned questions, then created a graph to make the comparison clear. The PNGs below were generated from the repository's CSV data.
+
+### 1. How does revenue vary by day of the week?
+This can help identify busy and quiet shopping days for promotions and staffing.
+
+![Revenue by day of the week](graphs/question_01_weekday_revenue.png)
+
+### 2. Do customer age groups prefer different product categories?
+This compares category demand across customer age groups.
+
+![Units sold by age group and product category](graphs/question_02_age_category.png)
+
+### 3. Which payment methods are used most, and which generate the most revenue?
+This compares payment frequency with the revenue associated with each method.
+
+![Orders and revenue by payment method](graphs/question_03_payment_methods.png)
+
+### 4. Are larger discounts associated with more units sold?
+This explores the relationship between discounts and the quantity on order items.
+
+![Discount level and quantity sold](graphs/question_04_discount_quantity.png)
+
+### 5. Which suppliers contribute the most revenue and profit?
+This compares supplier sales and profitability.
+
+![Revenue and profit by supplier](graphs/question_05_supplier_performance.png)
+
+### 6. How many days pass between a product launch and its first sale?
+This shows how quickly new products begin selling.
+
+![Days from product launch to first sale](graphs/question_06_launch_to_sale.png)
+
+### 7. Do long-time customers spend more than newer customers?
+This compares customer signup dates with total spending.
+
+![Customer signup date and total spending](graphs/question_07_signup_spending.png)
+
+### 8. Which customer cities have the most orders and highest average order value?
+This compares order volume and typical order value by city.
+
+![Order count and average order value by city](graphs/question_08_city_sales.png)
+
+### 9. Are return reasons more common for particular product categories?
+This looks for return patterns that may be concentrated in specific categories.
+
+![Returned items by category and reason](graphs/question_09_return_reasons.png)
+
+### 10. Is employee salary related to revenue generated?
+This explores whether salary and sales revenue show a relationship.
+
+![Employee salary and revenue generated](graphs/question_10_salary_revenue.png)
+
+The charts show patterns in this dataset; they do not by themselves prove that one factor caused another.
+
 ## Google Colab graphs
 
 The Pandas notebook generates the analysis graphs in Google Colab: monthly revenue, revenue by region and sales channel, top 10 products by revenue, return reasons, and monthly actual revenue versus regional targets. These are Colab notebook graphs; Power BI visuals are available in the `.pbix` dashboard.
