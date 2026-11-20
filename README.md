@@ -29,52 +29,52 @@ For today's task, I developed 10 original questions from the available dataset c
 ### 1. How does revenue vary by day of the week?
 This can help identify busy and quiet shopping days for promotions and staffing.
 
-![Revenue by day of the week](graphs/Revenue%20by%20day%20of%20the%20week.png)
+![Revenue by day of the week](Revenue%20by%20day%20of%20the%20week.png)
 
 ### 2. Do customer age groups prefer different product categories?
 This compares category demand across customer age groups.
 
-![Units sold by age group and product category](graphs/Units%20sold%20by%20age%20group%20and%20product%20category.png)
+![Units sold by age group and product category](Units%20sold%20by%20age%20group%20and%20product%20category.png)
 
 ### 3. Which payment methods are used most, and which generate the most revenue?
 This compares payment frequency with the revenue associated with each method.
 
-![Orders and revenue by payment method](graphs/orders%20and%20revenue%20by%20payment%20method.png)
+![Orders and revenue by payment method](orders%20and%20revenue%20by%20payment%20method.png)
 
 ### 4. Are larger discounts associated with more units sold?
 This explores the relationship between discounts and the quantity on order items.
 
-![Discount level and quantity sold](graphs/Discount%20level%20and%20quantity%20sold.png)
+![Discount level and quantity sold](Discount%20level%20and%20quantity%20sold.png)
 
 ### 5. Which suppliers contribute the most revenue and profit?
 This compares supplier sales and profitability.
 
-![Revenue and profit by supplier](graphs/Revenue%20and%20profit%20by%20supplier.png)
+![Revenue and profit by supplier](Revenue%20and%20profit%20by%20supplier.png)
 
 ### 6. How many days pass between a product launch and its first sale?
 This shows how quickly new products begin selling.
 
-![Days from product launch to first sale](graphs/Days%20from%20product%20launch%20to%20first%20sale.png)
+![Days from product launch to first sale](Days%20from%20product%20launch%20to%20first%20sale.png)
 
 ### 7. Do long-time customers spend more than newer customers?
 This compares customer signup dates with total spending.
 
-![Customer signup date and total spending](graphs/customer%20signup%20date%20and%20total%20spending.png)
+![Customer signup date and total spending](customer%20signup%20date%20and%20total%20spending.png)
 
 ### 8. Which customer cities have the most orders and highest average order value?
 This compares order volume and typical order value by city.
 
-![Order count and average order value by city](graphs/Order%20count%20and%20average%20order%20value%20by%20city.png)
+![Order count and average order value by city](Order%20count%20and%20average%20order%20value%20by%20city.png)
 
 ### 9. Are return reasons more common for particular product categories?
 This looks for return patterns that may be concentrated in specific categories.
 
-![Returned items by category and reason](graphs/Returned%20items%20by%20category%20and%20reason.png)
+![Returned items by category and reason](Returned%20items%20by%20category%20and%20reason.png)
 
 ### 10. Is employee salary related to revenue generated?
 This explores whether salary and sales revenue show a relationship.
 
-![Employee salary and revenue generated](graphs/Employee%20salary%20and%20revenue%20generated.png)
+![Employee salary and revenue generated](Employee%20salary%20and%20revenue%20generated.png)
 
 The charts show patterns in this dataset; they do not by themselves prove that one factor caused another.
 
